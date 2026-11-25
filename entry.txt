@@ -1,0 +1,1 @@
+I asked Jira to estimate my task. It said two weeks. I said it takes ten minutes. Jira updated the ticket: two weeks, plus a meeting about why I disagreed.
